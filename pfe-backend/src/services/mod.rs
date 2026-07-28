@@ -1,0 +1,11 @@
+pub mod agent1;
+pub mod agent2;
+pub mod agent3;
+pub mod auth_service;
+pub mod stock_service;
+pub mod products_service;
+pub mod suppliers_service;
+pub mod orders_service;
+pub mod alerts_service;
+pub mod users_service;
+pub mod settings_service;
